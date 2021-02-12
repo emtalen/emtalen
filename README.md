@@ -1,6 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtalen&layout=compact&theme=radical&langs_count=6&line_height=16&bg_color=00000000" />
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=emtalen&layout=compact&theme=algolia&langs_count=6&line_height=16&bg_color=00000000" />
 
 Addicted to 🦄 , 🥐 and building things with code 🔧
+
+Knows how to make a mad old fashion 🥃 
 
 🚀 Actively aiming to become a living legend in: 
 
