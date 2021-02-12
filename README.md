@@ -1,5 +1,3 @@
-20-something years old not so lady-like developer 👠 who is afraid of heights but aims for the stars ✨ 
-
 Addicted to 🦄 , 🥐 and building things with code 🔧
 
 🚀 Actively aiming to become a living legend in: 
