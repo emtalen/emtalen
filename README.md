@@ -2,7 +2,6 @@
 
 Addicted to 🦄 , 🥐 and building things with code 🔧
 
-Knows how to make a mad old fashion 🥃 
 
 🚀 Actively aiming to become a living legend in: 
 
